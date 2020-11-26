@@ -1,42 +1,34 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
-    "status": "up",
-    "uptime": "99.99%",
-    "time": 87
-  },
-  {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "fxtalk.cn",
+    "url": "https://www.fxtalk.cn",
+    "slug": "fxtalk-cn",
     "status": "up",
     "uptime": "100.00%",
-    "time": 123
+    "time": 1358
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "慈狐传媒",
+    "url": "https://www.cihucm.com",
+    "slug": "",
     "status": "up",
-    "uptime": "99.83%",
-    "time": 347
+    "uptime": "100.00%",
+    "time": 1676
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "0.00%",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
+    "name": "申裴知识产权",
+    "url": "https://www.shenpei.net",
+    "slug": "",
     "status": "up",
-    "uptime": "99.98%",
-    "time": 48
+    "uptime": "100.00%",
+    "time": 1676
+  },
+  {
+    "name": "盈乾资本",
+    "url": "https://www.yqjf68.com",
+    "slug": "",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 1676
   }
 ]
