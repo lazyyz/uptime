@@ -1,23 +1,27 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your Github repository name
+owner: lazyyz # Your GitHub username
+repo: uptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: fxtalk.cn
+    url: https://www.fxtalk.cn
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Broken Site
     url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: 慈狐传媒
+    url: https://www.cihucm.com
+  - name: 申裴知识产权
+    url: https://www.shenpei.net
+  - name: 盈乾资本
+    url: https://www.yqjf68.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: uptime.fxtalk.cn
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
