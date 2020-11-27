@@ -6,6 +6,10 @@ repo: uptime # Your Github repository name
 sites:
   - name: fxtalk
     url: https://www.fxtalk.cn
+  - name: LOVE
+    url: https://love.fxtalk.cn
+  - name: Fun
+    url: https://fun.fxtalk.cn
   - name: CIHU
     url: https://www.cihucm.com
   - name: SP
