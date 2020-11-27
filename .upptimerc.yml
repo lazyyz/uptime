@@ -8,9 +8,9 @@ sites:
     url: https://www.fxtalk.cn
   - name: CIHU
     url: https://www.cihucm.com
-  - name: ShenPei
+  - name: SP
     url: https://www.shenpei.net
-  - name: YingQian
+  - name: YQ
     url: https://www.yqjf68.com
 
 status-website:
