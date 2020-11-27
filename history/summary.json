@@ -5,7 +5,7 @@
     "slug": "fxtalk",
     "status": "up",
     "uptime": "100.00%",
-    "time": 693
+    "time": 764
   },
   {
     "name": "CIHU",
@@ -13,22 +13,22 @@
     "slug": "cihu",
     "status": "up",
     "uptime": "100.00%",
-    "time": 837
+    "time": 913
   },
   {
-    "name": "ShenPei",
+    "name": "SP",
     "url": "https://www.shenpei.net",
-    "slug": "shen-pei",
+    "slug": "sp",
     "status": "up",
     "uptime": "100.00%",
-    "time": 438
+    "time": 650
   },
   {
-    "name": "YingQian",
+    "name": "YQ",
     "url": "https://www.yqjf68.com",
-    "slug": "ying-qian",
+    "slug": "yq",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2744
+    "time": 2742
   }
 ]
