@@ -4,13 +4,13 @@ repo: uptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: fxtalk.cn
+  - name: fxtalk
     url: https://www.fxtalk.cn
-  - name: 慈狐传媒
+  - name: CIHU
     url: https://www.cihucm.com
-  - name: 申裴知识产权
+  - name: ShenPei
     url: https://www.shenpei.net
-  - name: 盈乾资本
+  - name: YingQian
     url: https://www.yqjf68.com
 
 status-website:
@@ -27,6 +27,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: fxtalk.cn
+      href: https://www.fxtalk.cn
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
