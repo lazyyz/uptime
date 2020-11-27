@@ -1,0 +1,34 @@
+[
+  {
+    "name": "fxtalk",
+    "url": "https://www.fxtalk.cn",
+    "slug": "fxtalk",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 693
+  },
+  {
+    "name": "CIHU",
+    "url": "https://www.cihucm.com",
+    "slug": "cihu",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 837
+  },
+  {
+    "name": "ShenPei",
+    "url": "https://www.shenpei.net",
+    "slug": "shen-pei",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 438
+  },
+  {
+    "name": "YingQian",
+    "url": "https://www.yqjf68.com",
+    "slug": "ying-qian",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 2744
+  }
+]
