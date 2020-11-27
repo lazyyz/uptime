@@ -1,34 +1,34 @@
 [
   {
-    "name": "fxtalk.cn",
+    "name": "fxtalk",
     "url": "https://www.fxtalk.cn",
-    "slug": "fxtalk-cn",
+    "slug": "fxtalk",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1247
+    "time": 987
   },
   {
-    "name": "慈狐传媒",
+    "name": "CIHU",
     "url": "https://www.cihucm.com",
-    "slug": "",
+    "slug": "cihu",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1082
+    "time": 1131
   },
   {
-    "name": "申裴知识产权",
+    "name": "ShenPei",
     "url": "https://www.shenpei.net",
-    "slug": "",
+    "slug": "shen-pei",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1082
+    "time": 651
   },
   {
-    "name": "盈乾资本",
+    "name": "YingQian",
     "url": "https://www.yqjf68.com",
-    "slug": "",
+    "slug": "ying-qian",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1082
+    "time": 3377
   }
 ]
