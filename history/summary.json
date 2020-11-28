@@ -5,7 +5,7 @@
     "slug": "fxtalk",
     "status": "up",
     "uptime": "100.00%",
-    "time": 822
+    "time": 848
   },
   {
     "name": "LOVE",
@@ -13,7 +13,7 @@
     "slug": "love",
     "status": "up",
     "uptime": "100.00%",
-    "time": 669
+    "time": 633
   },
   {
     "name": "Fun",
@@ -21,7 +21,7 @@
     "slug": "fun",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1314
+    "time": 1077
   },
   {
     "name": "CIHU",
@@ -29,7 +29,7 @@
     "slug": "cihu",
     "status": "up",
     "uptime": "100.00%",
-    "time": 997
+    "time": 1035
   },
   {
     "name": "SP",
@@ -37,7 +37,7 @@
     "slug": "sp",
     "status": "up",
     "uptime": "100.00%",
-    "time": 893
+    "time": 811
   },
   {
     "name": "YQ",
@@ -45,6 +45,6 @@
     "slug": "yq",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1792
+    "time": 1414
   }
 ]
