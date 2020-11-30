@@ -13,7 +13,7 @@
     "slug": "love",
     "status": "up",
     "uptime": "100.00%",
-    "time": 628
+    "time": 641
   },
   {
     "name": "Fun",
@@ -21,7 +21,7 @@
     "slug": "fun",
     "status": "up",
     "uptime": "100.00%",
-    "time": 942
+    "time": 867
   },
   {
     "name": "CIHU",
@@ -29,7 +29,7 @@
     "slug": "cihu",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1054
+    "time": 1086
   },
   {
     "name": "SP",
@@ -37,7 +37,7 @@
     "slug": "sp",
     "status": "up",
     "uptime": "100.00%",
-    "time": 756
+    "time": 742
   },
   {
     "name": "YQ",
@@ -45,6 +45,6 @@
     "slug": "yq",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1212
+    "time": 1135
   }
 ]
