@@ -4,24 +4,24 @@
     "url": "https://www.fxtalk.cn",
     "slug": "fxtalk",
     "status": "up",
-    "uptime": "95.42%",
-    "time": 990
+    "uptime": "96.20%",
+    "time": 985
   },
   {
     "name": "LOVE",
     "url": "https://love.fxtalk.cn",
     "slug": "love",
     "status": "up",
-    "uptime": "95.31%",
-    "time": 613
+    "uptime": "96.12%",
+    "time": 642
   },
   {
     "name": "Fun",
     "url": "https://fun.fxtalk.cn",
     "slug": "fun",
     "status": "up",
-    "uptime": "95.31%",
-    "time": 667
+    "uptime": "96.12%",
+    "time": 668
   },
   {
     "name": "CIHU",
@@ -29,7 +29,7 @@
     "slug": "cihu",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1138
+    "time": 1137
   },
   {
     "name": "SP",
@@ -37,7 +37,7 @@
     "slug": "sp",
     "status": "up",
     "uptime": "100.00%",
-    "time": 720
+    "time": 730
   },
   {
     "name": "YQ",
@@ -45,6 +45,6 @@
     "slug": "yq",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1052
+    "time": 1003
   }
 ]
