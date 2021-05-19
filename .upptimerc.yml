@@ -5,7 +5,7 @@ repo: uptime # Your Github repository name
 # Add your sites here
 sites:
   - name: fxtalk
-    url: https://www.fxtalk.cn
+    url: https://fxtalk.cn
   - name: LOVE
     url: https://love.fxtalk.cn
   - name: Fun
@@ -32,7 +32,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: fxtalk.cn
-      href: https://www.fxtalk.cn
+      href: https://fxtalk.cn
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
